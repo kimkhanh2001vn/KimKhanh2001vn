@@ -1,6 +1,6 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <div align="center">
-# 💫 About Me:
+# 💫<h3> About Me: <h3/> <br/>
 ⚡ Hello ⚡<br>⚡I'm Ngo Kim Khanh⚡<br>🌱 I'm a C# language developer.<br><hr/><br>🤝WELCOME TO MY GITHUB🤝<br>
 <div/>
  
